@@ -1,0 +1,26 @@
+body {
+  background: #F2F2F2;
+  color: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background: #4a90e2;
+  display: flex;
+  justify-content: center;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 64px;
+  padding: 0 42px;
+  color: #fff;
+  min-width: 980px;
+  font-size: 14px;
+}
+
+nav img {
+  height: 24px;
+}
