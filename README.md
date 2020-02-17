@@ -38,8 +38,6 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ### Tela da aplicação
 
-![Facebook](.github/facebook.png)
-
 <img src="https://user-images.githubusercontent.com/54600663/74622625-4ebc7b80-5120-11ea-9694-79005e424ef0.png">
 
 
