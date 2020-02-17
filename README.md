@@ -40,11 +40,6 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ![Facebook](.github/facebook.png)
 
+<img src="https://user-images.githubusercontent.com/54600663/74622625-4ebc7b80-5120-11ea-9694-79005e424ef0.png">
 
-## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
